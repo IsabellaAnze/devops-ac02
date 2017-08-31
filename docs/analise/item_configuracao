@@ -1,0 +1,11 @@
+Uma liberação (sendo uma entidade versionada propriamente dita) pode consistir de vários itens de configuração. 
+O conjunto de mudanças para cada item de configuração aparecerá nas notas de lançamento, e as notas podem conter títulos 
+específicos para cada item de configuração. 
+Um item de configuração de hardware complexo pode ter vários níveis de itens de configuração abaixo seu nível superior; 
+cada nível de item de configuração deve atender aos mesmos elementos fundamentais do sistema de gerenciamento de configuração.
+
+Além de seu propósito na implementação e gerenciamento de uma mudança, cada listagem e definição do item de configuração 
+deve agir como um vocabulário comum em todos os grupos ligados ao produto. Deve ser definido a um nível de forma que um 
+indivíduo envolvido com o marketing do produto e um indivíduo no coalface de implementação possam concordar com uma 
+definição comum quando eles usam o nome da lição e identificação dos itens de configuração para um determinado projeto 
+pode ser visto como o primeiro passo no desenvolvimento de uma arquitetura global do produto a partir do topo para baixo.
