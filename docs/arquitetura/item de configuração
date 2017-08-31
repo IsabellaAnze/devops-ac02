@@ -1,0 +1,6 @@
+O termo item de configuração pode ser aplicado a qualquer coisa designada para a aplicação dos elementos de gestão de
+configuração e tratada como uma entidade única no sistema de gestão de configuração.
+
+A entidade deve ser identificada unicamente de modo que ela possa ser distinguida de todos os outros itens de configuração
+A alteração de uma versão específica de linha de base de um item de configuração cria uma nova versão do mesmo item de configuração,
+uma linha de base propriamente dita.
